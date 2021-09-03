@@ -1,2 +1,2 @@
 # hello-world
-first repository
+I am Shiwam Dwivedi. I'm intrested in python programming.
